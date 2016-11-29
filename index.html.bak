@@ -14,7 +14,7 @@
 <script type="text/javascript" src="js/functions_dev.js"></script>
 </head>
 <body>
-        <embed src="http://bd.kuwo.cn/yinyue/3572912?from=baidu" width=0 height=0 type=audio/mpeg loop="true" autostart="true">
+        <embed src="photo/music.mp3" width=0 height=0 type=audio/mpeg loop="true" autostart="true">
 	    
 <!-- 代码 开始 -->
 <div id="mainDiv">
@@ -28,7 +28,7 @@
 					</div>
 					<div id="loveu">
 						Love in accumulation, any time!<br> 
-						<div class="signature">——<a href="#" target="_blank" >汤明宏</a></div>
+						<div class="signature">——<a href="#" target="_blank" color="white">汤明宏</a></div>
 					</div>
 				</div>
 			</div>
